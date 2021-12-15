@@ -1,0 +1,10 @@
+:root {
+  /*colors*/
+  /*https://www.canva.com/colors/color-wheel/print/564ab5+8c4ab5+4a73b5/  */
+  --dominantColor: #4a73b5; /*var(--dominantColor) */
+  --secondaryColor: #564ab5; /*var(--secondaryColor) */
+  --accentColor: #8c4ab5; /*var(--accentColor) */
+
+  /* vertical, horizontal, blur, spread, color+opacity */
+  --boxShadow: 0 0 20px rgba(0, 0, 0, 0.35); /* var(--boxShadow)
+}
